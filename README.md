@@ -1,5 +1,7 @@
 # Text preprocessing
 
+![Preprocessing code](cover.jpg)
+
 The first steps of any NLP pipeline, done by hand in one script: `text_preprocessing.py`.
 
 ## What it covers
