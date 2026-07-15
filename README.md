@@ -1,6 +1,6 @@
 # Text preprocessing
 
-The first steps of any NLP pipeline, done by hand in one script for my text mining course at EDC Paris.
+The first steps of any NLP pipeline, done by hand in one script fora text mining course.
 
 ## What it covers
 
