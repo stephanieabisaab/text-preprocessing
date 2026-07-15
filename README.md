@@ -1,6 +1,6 @@
 # Text preprocessing
 
-The first steps of any NLP pipeline, done by hand in one script fora text mining course.
+The first steps of any NLP pipeline, done by hand in one script: `text_preprocessing.py`.
 
 ## What it covers
 
